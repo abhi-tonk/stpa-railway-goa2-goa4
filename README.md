@@ -47,6 +47,14 @@ ST.aird → STPA Analysis → Control Structure → [GOA2-HSCS or GOA4-HSCS]
 
 ---
 
+## 📦 Downloadable Capella Projects
+
+These ZIP files contain full Capella project folders. After extracting, you can import them directly into Capella 7.0.0.
+
+- [`GoA2-HSCS.zip`](GoA2-HSCS.zip) — STPA HSCS model for GoA2
+- [`GoA4-HSCS.zip`](GoA4-HSCS.zip) — STPA HSCS model for GoA4
+
+
 ## 🤝 Collaboration
 
 Contributions and collaborations are welcome!
