@@ -43,7 +43,7 @@ ST.aird → STPA Analysis → Control Structure → [GOA2-HSCS or GOA4-HSCS]
 
 ### GoA4 Control Structure
 
-![GoA4 HSCS](images/GOA4-HSCS.jpg)
+![GoA4 HSCS](images/GoA4-HSCS.jpg)
 
 ---
 
