@@ -68,3 +68,11 @@ Whether you're improving the models, adapting them to another domain, or adding 
 ## 📄 License
 
 This work is shared under an open-access approach for academic and research purposes. Attribution appreciated but not required.
+
+---
+
+## 📌 Disclaimer
+
+This work was conducted as part of doctoral research at **IRT Railenium** and **Université Gustave Eiffel**, France. The models, methods, and files shared in this repository reflect the outcomes of that ongoing research effort.
+
+
